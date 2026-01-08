@@ -31,3 +31,11 @@ Excel, SQL, Python, and Power BI, with a strong focus on business-driven analyti
 - Healthcare
 - Finance
 - Technology
+
+## 🎓 Education & Certifications
+
+- **Data Analytics Professional Certificate** – ALX Powered by Explore AI Academy | Aug 2025
+
+- **Python Programming Professional Certificate** – ALX Powered by Explore AI Academy | Nov 2025
+
+- **Data Analysis Track** – DEPI | 2025
