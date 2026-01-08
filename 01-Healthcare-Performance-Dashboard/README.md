@@ -1,6 +1,6 @@
 # 🏥 Healthcare Performance Dashboard
 
-[Healthcare Dashboard](Dashboard/Dashboard-Overview-png.png)
+[Healthcare Dashboard](dashboard/dashboard-overview.png)
 
 ## 📌 Business Objective
 Design an analytical dashboard to track and compare sales targets versus actual sales
