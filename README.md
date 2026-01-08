@@ -10,3 +10,24 @@ and completed an internship at a fast-growing fintech startup.
 
 My core skills include data cleaning, analysis, and dashboard development using
 Excel, SQL, Python, and Power BI, with a strong focus on business-driven analytics.
+
+## 🛠 Core Skills
+
+**Data Analysis & Tools**
+- SQL, Excel, Power Query
+- Python
+- Power BI (DAX, Data Modeling)
+
+**Data Processing & ETL**
+- Data Cleaning
+- ETL Processes
+- Data Transformation
+
+**Data Visualization & Reporting**
+- Interactive Dashboards
+- KPI Reporting
+
+**Business Domains**
+- Healthcare
+- Finance
+- Technology
