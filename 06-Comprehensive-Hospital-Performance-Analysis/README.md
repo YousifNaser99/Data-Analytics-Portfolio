@@ -1,4 +1,10 @@
 # 🏥 Comprehensive Hospital Performance Analysis
+
+## 📊 Dashboard Preview
+[Hospital Compass](Dashboard/hospital-compass.png)
+[Human Capital](Dashboard/human-capital.png)
+[Finanacial Insights](Dashboard/financial-insights.png)
+
 ### Consolidating 7 Dashboards into a Single Executive Report
 
 ## 📌 Business Problem
