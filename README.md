@@ -39,3 +39,14 @@ Excel, SQL, Python, and Power BI, with a strong focus on business-driven analyti
 - **Python Programming Professional Certificate** – ALX Powered by Explore AI Academy | Nov 2025
 
 - **Data Analysis Track** – DEPI | 2025
+
+## 🏅 Certifications
+
+- **Data Analytics Professional Certificate** – ALX Powered by Explore AI Academy 
+  🔗 https://drive.google.com/file/d/1HwvfMA79bt49oHlGv8i-sl3fBzJPgK-3/view?usp=sharing
+
+- **Python Programming Professional Certificate** – ALX Powered by Explore AI Academy  
+  🔗 https://drive.google.com/file/d/1pt6JBmC-Slx41FuljfVs4sceHCogd35K/view?usp=sharing
+
+- **Data Analysis Track** – Digital Egypt Pioneers Initiative (DEPI)  
+  🔗 Certificate Link
