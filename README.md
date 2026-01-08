@@ -42,7 +42,7 @@ Excel, SQL, Python, and Power BI, with a strong focus on business-driven analyti
 
 ## 🏅 Certifications
 
-- **Data Analytics Professional Certificate** – ALX Powered by Explore AI Academy 
+- **Data Analytics Professional Certificate** – ALX Powered by Explore AI Academy  
   🔗 https://drive.google.com/file/d/1HwvfMA79bt49oHlGv8i-sl3fBzJPgK-3/view?usp=sharing
 
 - **Python Programming Professional Certificate** – ALX Powered by Explore AI Academy  
