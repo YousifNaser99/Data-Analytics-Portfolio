@@ -1,5 +1,9 @@
 # 🏭 Manufacturing & Production Dashboard
 
+## 📊 Dashboard Preview
+[Production Impact Dashboard](Dashboard/production-impact.png)
+[Cost Management Dashboard](Dashboard/cost-management.png)
+
 ## 📌 Business Objective
 Develop a comprehensive Manufacturing Downtime and Reliability Dashboard to analyze
 equipment performance, maintenance costs, and spare parts management.
