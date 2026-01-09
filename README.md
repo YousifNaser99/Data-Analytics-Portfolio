@@ -10,7 +10,7 @@ Healthcare, Retail, and Operations domains.
 🔗 **Visual Portfolio (Canva):**  
 [View Portfolio Presentation](PASTE_CANVA_LINK_HERE)
 
-🔗 **Optional Presentation (Gamma):**
+🔗 **Optional Presentation (Gamma):** 
 [View Optional Presentation](https://gamma.app/docs/Yousif-Naser-i5jriqaol0o8f6z?mode=doc)
 
 ---
