@@ -1,5 +1,6 @@
 # 🏥 Healthcare Performance Dashboard
 
+## 📊 Dashboard Preview
 [Healthcare Dashboard](Dashboard/dashboard-overview.png)
 
 ## 📌 Business Objective
