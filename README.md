@@ -1,36 +1,44 @@
-# 👋 Hi, I'm Yousif Gheith
+# 👋 Yousif Naser   
+**Data Analyst | Power BI | SQL | Business Intelligence**
 
-## 📊 Data Analyst | Power BI | SQL
+I specialize in transforming raw data into executive-ready dashboards and
+actionable business insights that support strategic decision-making across
+Healthcare, Retail, and Operations domains.
 
-## 👋 About Me
-
-I am a Data Analyst with hands-on experience in transforming raw data into actionable business insights.
-I have worked on multiple analytical projects through the Digital Egypt Pioneers Initiative (DEPI)
-and completed an internship at a fast-growing fintech startup.
-
-My core skills include data cleaning, analysis, and dashboard development using
-Excel, SQL, Python, and Power BI, with a strong focus on business-driven analytics.
+---
 
 ## 🛠 Core Skills
+- Data Analysis & Business Intelligence
+- Power BI (Data Modeling, DAX, Executive Dashboards)
+- SQL Server (Views, Transformations)
+- Excel (Data Cleaning & Analysis)
+- KPI Design & Performance Analysis
+- Business & Executive Reporting
 
-**Data Analysis & Tools**
-- SQL, Excel, Power Query
-- Python
-- Power BI (DAX, Data Modeling)
+---
 
-**Data Processing & ETL**
-- Data Cleaning
-- ETL Processes
-- Data Transformation
+## ⭐ Featured Projects
+### 🏥 Comprehensive Hospital Performance Analysis
+**Executive reporting project consolidating 7 dashboards into a single strategic view**  
+🔗 `/06-Comprehensive-Hospital-Performance-Analysis`
 
-**Data Visualization & Reporting**
-- Interactive Dashboards
-- KPI Reporting
+### 🏭 Manufacturing & Production Dashboard
+**Downtime, reliability, maintenance cost, and inventory optimization**  
+🔗 `/05-Manufacturing-and-Production-Dashboard`
 
-**Business Domains**
-- Healthcare
-- Finance
-- Technology
+### 🛍️ Retail Profitability Dashboard
+**SQL + Power BI analysis of profit drivers, loss-making products, and discounts**  
+🔗 `/07-Comprehensive-Retail-Performance-Analysis`
+
+---
+
+## 📂 Other Projects
+- Healthcare Sales Performance Dashboard
+- Pharsert Sales Performance Dashboard
+- Supermarket Sales Dashboard (Power BI – Kaggle)
+- Car Sales and Profit Dashboard
+
+---
 
 ## 🎓 Education & Certifications
 
@@ -39,6 +47,8 @@ Excel, SQL, Python, and Power BI, with a strong focus on business-driven analyti
 - **Python Programming Professional Certificate** – ALX Powered by Explore AI Academy | Nov 2025
 
 - **Data Analysis Track** – DEPI | 2025
+
+---
 
 ## 🏅 Certifications
 
@@ -50,3 +60,9 @@ Excel, SQL, Python, and Power BI, with a strong focus on business-driven analyti
 
 - **Data Analysis Track** – Digital Egypt Pioneers Initiative (DEPI)  
   🔗 Certificate Link
+
+---
+
+## 📫 Contact
+- LinkedIn: (www.linkedin.com/in/yousif-naser)
+- Email: (yousifnaser34@gmail.com)
