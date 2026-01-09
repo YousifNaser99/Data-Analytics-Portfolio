@@ -1,9 +1,9 @@
 # 🛒 Supermarket Sales Dashboard
 
 ## 📊 Dashboard Preview
-[Supermarket Sales Overview Dashboard](Dashboard/supermarket-sales-overview.png)
-[Supermarket Sales Overview 2 Dashboard](Dashboard/supermarket-sales-overview2.png)
-[Customer Insights Dashboard](Dashboard/customer-insights.png)
+[Supermarket Sales Overview](Dashboard/supermarket-sales-overview.png)
+[Supermarket Sales Overview 2](Dashboard/supermarket-sales-overview2.png)
+[Customer Insights](Dashboard/customer-insights.png)
 
 ## 📌 Business Objective
 Analyze supermarket sales performance and customer behavior to uncover insights
