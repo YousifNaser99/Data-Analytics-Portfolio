@@ -38,3 +38,4 @@ improve profitability, and manage stock effectively.
 ## 🛠 Tools Used
 - Microsoft Power BI (Data Modeling, DAX, Interactive Dashboards)
 - Microsoft Excel (Data Cleaning and Preparation)
+
