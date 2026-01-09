@@ -1,11 +1,11 @@
 # 🚗 Car Sales and Profit Dashboard
 
 ## 📊 Dashboard Preview
-[Sales Profit Dashboard](Dashboard/sales&profit.png)
-[Sales Profit 2 Dashboard](Dashboard/sales&profit2.png)
-[Sales Profit 3 Dashboard](Dashboard/sales&profit3.png)
-[Customer Behavior Dashboard](Dashboard/customer-behavior.png)
-[Stock & Inventory Dashboard](Dashboard/stock&inventory.png)
+[Sales Profit](Dashboard/sales&profit.png)
+[Sales Profit 2](Dashboard/sales&profit2.png)
+[Sales Profit 3](Dashboard/sales&profit3.png)
+[Customer Behavior](Dashboard/customer-behavior.png)
+[Stock & Inventory](Dashboard/stock&inventory.png)
 
 ## 📌 Business Objective
 Develop a comprehensive and interactive sales dashboard to analyze car sales data,
