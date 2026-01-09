@@ -1,5 +1,8 @@
 # 💊 Pharsert Sales Performance Dashboard
 
+## 📊 Dashboard Preview
+[Pharsert Sales Dashboard](Dashboard/sales-dashboard.png)
+
 ## 📌 Business Objective
 Design a sales performance dashboard to track and compare sales targets versus actual sales
 for Pharsert Cream & Gel (antifungal products) within the healthcare sector,
