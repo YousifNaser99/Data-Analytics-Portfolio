@@ -3,6 +3,8 @@
 ## 📊 Dashboard Preview
 [Production Impact Dashboard](Dashboard/production-impact.png)
 [Cost Management Dashboard](Dashboard/cost-management.png)
+[Equipment Reliability Failure Pattern Dashboard](Dashboard/equipment-reliability-failure-pattern.png)
+[Inventory Management Dashboard](Dashboard/inventory-management.png)
 
 ## 📌 Business Objective
 Develop a comprehensive Manufacturing Downtime and Reliability Dashboard to analyze
