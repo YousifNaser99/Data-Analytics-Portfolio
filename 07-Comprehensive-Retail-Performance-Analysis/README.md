@@ -1,6 +1,14 @@
 # 🛍️ Comprehensive Retail Performance Analysis
 ### Transforming Raw Sales Data into an Executive Profitability Dashboard
 
+## 📊 Dashboard Preview
+[Executive Profitability Dashboard](Dashboard/executicutive-porfitability.png)
+[Profitability Drivers & Drains Dashboard](Dashboard/profitability-drivers&drains.png)
+[Operation & Logestics Dashboard](Dashboard/operation&logestics.png)
+[Root Cause Dashboard](Dashboard/root-cause.png)
+[Top Customer Spotlight Dashboard](Dashboard/top-customer-spotlight.png)
+[Advanced Insights Dashboard](Dashboard/advanced-insights.png)
+
 ## 📌 Business Problem
 Retail management relied on raw transactional sales data and basic reports without
 a unified analytical view, resulting in limited visibility into profit drivers,
