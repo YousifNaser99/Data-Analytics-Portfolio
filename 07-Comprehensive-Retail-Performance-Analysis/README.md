@@ -2,19 +2,19 @@
 ### Transforming Raw Sales Data into an Executive Profitability Dashboard
 
 ## 📊 Dashboard Preview
-[Cover Dashboard](Dashboard/cover.png)
-[Executive Profitability Dashboard](Dashboard/executive-profitability.png)
-[Customer Behavior Dashboard](Dashboard/customer-behavior.png)
-[Profitability Drivers & Drains Dashboard](Dashboard/profitability-drivers&drains.png)
-[Customer Segment Deep Dive Dashboard](Dashboard/customer-segment-deep-dive.png)
-[Regional Analysis Dashboard](Dashboard/regional-analysis.png)
-[Product Deep Dive Dashboard](Dashboard/producrt-deep-dive.png)
-[Shipping Analysis Dashboard](Dashboard/shipping-analysis.png)
-[Operation & Logestics Dashboard](Dashboard/operation&logestics.png)
-[Root Cause Dashboard](Dashboard/root-cause.png)
-[Top Customer Spotlight Dashboard](Dashboard/top-customer-spotlight.png)
-[Advanced Insights Dashboard](Dashboard/advanced-insights.png)
-[Basket & Pricing Analysis Dashboard](Dashboard/basket&pricing-analysis.png)
+[Cover](Dashboard/cover.png)
+[Executive Profitability](Dashboard/executive-profitability.png)
+[Customer Behavior](Dashboard/customer-behavior.png)
+[Profitability Drivers & Drains](Dashboard/profitability-drivers&drains.png)
+[Customer Segment Deep Dive](Dashboard/customer-segment-deep-dive.png)
+[Regional Analysis](Dashboard/regional-analysis.png)
+[Product Deep Dive](Dashboard/producrt-deep-dive.png)
+[Shipping Analysis](Dashboard/shipping-analysis.png)
+[Operation & Logestics](Dashboard/operation&logestics.png)
+[Root Cause](Dashboard/root-cause.png)
+[Top Customer Spotlight](Dashboard/top-customer-spotlight.png)
+[Advanced Insights](Dashboard/advanced-insights.png)
+[Basket & Pricing Analysis](Dashboard/basket&pricing-analysis.png)
 
 ## 📌 Business Problem
 Retail management relied on raw transactional sales data and basic reports without
