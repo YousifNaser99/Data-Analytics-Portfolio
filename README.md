@@ -7,6 +7,11 @@ Healthcare, Retail, and Operations domains.
 
 ---
 
+🔗 **Visual Portfolio (Canva):**  
+[View Portfolio Presentation](PASTE_CANVA_LINK_HERE)
+
+---
+
 ## 🛠 Core Skills
 - Data Analysis & Business Intelligence
 - Power BI (Data Modeling, DAX, Executive Dashboards)
