@@ -2,10 +2,10 @@
 
 ## 📊 Dashboard Preview
 [Cover](Dashboard/cover.png)
-[Hospital Compass](Dashboard/hospital-compass.png)
-[Human Capital](Dashboard/human-capital.png)
+[Hospital Compass](Dashboard/hospital_compass.png)
+[Human Capital](Dashboard/human_capital.png)
 [Patient Insights](Dashboard/patient-insights.png)
-[Finanacial Insights](Dashboard/financial-insights.png)
+[Finanacial Insights](Dashboard/financial_insights.png)
 [Prescription Insights](Dashboard/prescription-insights.png)
 [Prescription Analysis](Dashboard/prescription-analysis.png)
 [Medical Inventory](Dashboard/medical-inventory.png)
