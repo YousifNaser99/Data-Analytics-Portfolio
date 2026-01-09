@@ -1,4 +1,4 @@
-# 🛍️ Comprehensive Retail Performance Analysis
+# 🛍️ Comprehensive Retail Performance Analysis 
 ### Transforming Raw Sales Data into an Executive Profitability Dashboard
 
 ## 📊 Dashboard Preview
