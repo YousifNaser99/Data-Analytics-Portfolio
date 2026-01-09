@@ -1,5 +1,8 @@
 # 🛒 Supermarket Sales Dashboard
 
+## 📊 Dashboard Preview
+[Production Impact Dashboard](Dashboard/production-impact.png)
+
 ## 📌 Business Objective
 Analyze supermarket sales performance and customer behavior to uncover insights
 into revenue distribution, sales trends, and customer demographics,
