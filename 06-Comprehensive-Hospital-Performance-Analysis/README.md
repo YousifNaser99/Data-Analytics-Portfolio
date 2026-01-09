@@ -1,9 +1,14 @@
 # 🏥 Comprehensive Hospital Performance Analysis
 
 ## 📊 Dashboard Preview
+[Cover](Dashboard/cover.png)
 [Hospital Compass](Dashboard/hospital-compass.png)
 [Human Capital](Dashboard/human-capital.png)
+[Patient Insights](Dashboard/patient-insights.png)
 [Finanacial Insights](Dashboard/financial-insights.png)
+[Prescription Insights](Dashboard/prescription-insights.png)
+[Prescription Analysis](Dashboard/prescription-analysis.png)
+[Medical Inventory](Dashboard/medical-inventory.png)
 
 ### Consolidating 7 Dashboards into a Single Executive Report
 
