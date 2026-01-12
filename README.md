@@ -38,6 +38,10 @@ Healthcare, Retail, and Operations domains.
 **SQL + Power BI analysis of profit drivers, loss-making products, and discounts**  
 🔗 `/07-Comprehensive-Retail-Performance-Analysis`
 
+🔒 Bonus Project (Private):
+Healthcare analytics-driven engagement platform focused on KPI design, scoring, and incentive systems.
+Details available upon request.
+
 ---
 
 ## 📂 Other Projects
