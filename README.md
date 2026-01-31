@@ -71,7 +71,7 @@ Details available upon request.
   🔗 https://drive.google.com/file/d/1pt6JBmC-Slx41FuljfVs4sceHCogd35K/view?usp=sharing
 
 - **Data Analysis Track** – Digital Egypt Pioneers Initiative (DEPI)  
-  🔗 Certificate Link
+  🔗 https://drive.google.com/file/d/1hUT-rXAV0fL2Vo_u3Az4xCQxLhrtOB-4/view?usp=sharing
 
 ---
 
