@@ -55,6 +55,7 @@ Automatically calculated:
 6. JavaScript
 7. REST APIs
 
+
 # 🚀 Future Enhancements
 1. Power BI Dashboard Integration
 2. Historical Tournament Analytics
