@@ -7,11 +7,11 @@ An AI-powered automation platform built to monitor FIFA World Cup matches, gener
 
 Build a fully automated football analytics system capable of:
 
-3Collecting live match data.
-Maintaining tournament standings.
-Tracking qualified teams and best third-placed teams.
-Generating AI-powered match summaries.
-Sending real-time Telegram notifications.
+1. Collecting live match data.
+2. Maintaining tournament standings.
+3. Tracking qualified teams and best third-placed teams.
+4. Generating AI-powered match summaries.
+5. Sending real-time Telegram notifications.
 
 # 📊 Data Source
 Football-Data API
