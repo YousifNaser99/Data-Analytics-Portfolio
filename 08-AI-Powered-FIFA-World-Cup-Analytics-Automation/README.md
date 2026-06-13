@@ -14,37 +14,37 @@ Build a fully automated football analytics system capable of:
 5. Sending real-time Telegram notifications.
 
 # 📊 Data Source
-Football-Data API
-Live FIFA World Cup match data
-Group stage standings and qualification information
+1. Football-Data API
+2. Live FIFA World Cup match data
+3. Group stage standings and qualification information
 
 # 🔍 Automation & Analytics Process
-Match Data Collection
+1. Match Data Collection
 Retrieved live match data using Football-Data API.
 Automated data ingestion through n8n workflows.
-Data Repository
+2. Data Repository
 Stored match results and tournament data in Google Sheets.
 Maintained live standings and qualification tables.
-Qualification Logic
+3. Qualification Logic
 Automatically calculated:
 Group standings.
 Qualified teams.
 Best third-placed teams.
-AI Match Analysis
+4. AI Match Analysis
 Integrated OpenRouter AI.
 Generated automated match summaries and insights.
-Notification System
+5. Notification System
 Delivered real-time Telegram notifications.
 Prevented duplicate alerts using tracking logic.
 
 # 📈 Key Features
-Real-time tournament monitoring.
-Automated standings calculation.
-Qualification tracking engine.
-Best third-placed team ranking.
-AI-generated match summaries.
-Telegram notification automation.
-Cloud deployment with n8n.
+1. Real-time tournament monitoring.
+2. Automated standings calculation.
+3. Qualification tracking engine.
+4. Best third-placed team ranking.
+5. AI-generated match summaries.
+6. Telegram notification automation.
+7. Cloud deployment with n8n.
 
 # 🛠 Tools & Technologies
 n8n Cloud
