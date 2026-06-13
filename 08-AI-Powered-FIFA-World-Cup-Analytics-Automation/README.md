@@ -19,21 +19,21 @@ Build a fully automated football analytics system capable of:
 3. Group stage standings and qualification information
 
 # 🔍 Automation & Analytics Process
-Match Data Collection
+# Match Data Collection
 1. Retrieved live match data using Football-Data API.
 2. Automated data ingestion through n8n workflows.
-Data Repository
+# Data Repository
 1. Stored match results and tournament data in Google Sheets.
 2. Maintained live standings and qualification tables.
-Qualification Logic
+# Qualification Logic
 Automatically calculated:
 1. Group standings.
 2. Qualified teams.
 3. Best third-placed teams.
-AI Match Analysis
+# AI Match Analysis
 1. Integrated OpenRouter AI.
 2. Generated automated match summaries and insights.
-Notification System
+# Notification System
 1. Delivered real-time Telegram notifications.
 2. Prevented duplicate alerts using tracking logic.
 
