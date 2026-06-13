@@ -3,6 +3,9 @@
 
 An AI-powered automation platform built to monitor FIFA World Cup matches, generate AI-based match summaries, track standings and qualification scenarios, and deliver real-time notifications automatically.
 
+## ⚙️ Main Workflow
+![Main Workflow](Workflows/main-workflow.png)
+
 # 📌 Business Objective
 
 Build a fully automated football analytics system capable of:
