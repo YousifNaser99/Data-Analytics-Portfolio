@@ -7,7 +7,7 @@ An AI-powered automation platform built to monitor FIFA World Cup matches, gener
 
 Build a fully automated football analytics system capable of:
 
-Collecting live match data.
+3Collecting live match data.
 Maintaining tournament standings.
 Tracking qualified teams and best third-placed teams.
 Generating AI-powered match summaries.
