@@ -20,8 +20,8 @@ Build a fully automated football analytics system capable of:
 
 # 🔍 Automation & Analytics Process
 1. Match Data Collection
-Retrieved live match data using Football-Data API.
-Automated data ingestion through n8n workflows.
+. Retrieved live match data using Football-Data API.
+. Automated data ingestion through n8n workflows.
 2. Data Repository
 Stored match results and tournament data in Google Sheets.
 Maintained live standings and qualification tables.
