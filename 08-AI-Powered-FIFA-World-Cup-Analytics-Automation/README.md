@@ -47,17 +47,16 @@ Automatically calculated:
 7. Cloud deployment with n8n.
 
 # 🛠 Tools & Technologies
-n8n Cloud
-Football-Data API
-OpenRouter AI
-Google Sheets
-Google Sheets Formulas
-Telegram Bot API
-JavaScript
-REST APIs
+1. n8n Cloud
+2. Football-Data API
+3. OpenRouter AI
+4. Google Sheets Formulas
+5. Telegram Bot API
+6. JavaScript
+7. REST APIs
 
 # 🚀 Future Enhancements
-Power BI Dashboard Integration
-Historical Tournament Analytics
-Team Performance Dashboards
-Predictive Match Outcome Models
+1. Power BI Dashboard Integration
+2. Historical Tournament Analytics
+3. Team Performance Dashboards
+4. Predictive Match Outcome Models
