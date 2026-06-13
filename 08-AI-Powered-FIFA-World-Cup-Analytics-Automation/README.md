@@ -5,6 +5,8 @@ An AI-powered automation platform built to monitor FIFA World Cup matches, gener
 
 ## ⚙️ Main Workflow
 ![Main Workflow](Workflows/main-workflow.png)
+## 📊 Standings & Qualification Workflow
+![Standings Workflow](Workflows/standings-workflow.png)
 
 # 📌 Business Objective
 
@@ -28,11 +30,21 @@ Build a fully automated football analytics system capable of:
 # Data Repository
 1. Stored match results and tournament data in Google Sheets.
 2. Maintained live standings and qualification tables.
+### Match Data Repository
+![Matches Sheet](Data%20Repository/matches-sheet.png)
+
 # Qualification Logic
 Automatically calculated:
 1. Group standings.
 2. Qualified teams.
 3. Best third-placed teams.
+### Tournament Standings
+![Standings Sheet](Data%20Repository/standings-sheet.png)
+### Qualified Teams
+![Qualified Teams](Data%20Repository/qualified-teams.png)
+### Best Third-Placed Teams
+![Best Thirds](Data%20Repository/best-thirds.png)
+
 # AI Match Analysis
 1. Integrated OpenRouter AI.
 2. Generated automated match summaries and insights.
@@ -57,7 +69,6 @@ Automatically calculated:
 5. Telegram Bot API
 6. JavaScript
 7. REST APIs
-
 
 # 🚀 Future Enhancements
 1. Power BI Dashboard Integration
