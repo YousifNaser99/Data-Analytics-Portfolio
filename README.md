@@ -128,6 +128,26 @@ Retail Business Intelligence solution built using SQL Server and Power BI.
 
 # 📂 Additional Projects
 
+## ⚽ FIFA World Cup Analytics & AI Automation Platform
+
+An AI-powered automation workflow built using n8n to collect, validate, process, and distribute FIFA World Cup data through automated pipelines and notifications.
+
+### Highlights
+
+- AI Automation Workflow
+- Sports Data Integration
+- API Integration
+- Google Sheets Automation
+- Telegram Notifications
+- Automated Scheduling
+- Data Validation
+- Workflow Monitoring
+
+🔗 **Project**
+`/08-FIFA-World-Cup-AI-Automation`
+
+---
+
 - Healthcare Sales Performance Dashboard
 - Pharsert Sales Performance Dashboard
 - Supermarket Sales Dashboard
