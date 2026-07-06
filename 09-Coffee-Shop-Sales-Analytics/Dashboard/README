@@ -1,10 +1,10 @@
-### Dashboard Overview
+# Dashboard Overview
 
 Interactive Power BI dashboard designed to analyze six months of coffee shop sales performance.
 
 The dashboard transforms cleaned and validated data into actionable business insights through interactive visualizations and KPI monitoring.
 
-### Dashboard Pages
+## Dashboard Pages
 
 - Executive Dashboard
 - Sales Analysis
@@ -13,7 +13,7 @@ The dashboard transforms cleaned and validated data into actionable business ins
 - Store Performance
 - Time Analysis
 
-### Key Features
+## Key Features
 
 - Executive KPI Cards
 - Interactive Slicers
@@ -25,6 +25,6 @@ The dashboard transforms cleaned and validated data into actionable business ins
 - Store Performance Comparison
 - Time Intelligence Analysis
 
-### Purpose
+## Purpose
 
 Provide business stakeholders with an interactive reporting solution to monitor sales performance, identify trends, evaluate products and stores, and support data-driven decision making.
