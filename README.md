@@ -1,9 +1,10 @@
-# 👋 Yousif Naser   
-**Data Analyst | Power BI | SQL | Business Intelligence**
+# 👋 Hi, I'm Yousif Naser
 
-I specialize in transforming raw data into executive-ready dashboards and
-actionable business insights that support strategic decision-making across
-Healthcare, Retail, and Operations domains.
+## Data Analyst | Business Intelligence Developer | Power BI | SQL | Python | n8n Automation
+
+I build **end-to-end Business Intelligence solutions** that transform raw data into executive-ready dashboards and actionable business insights.
+
+My projects combine **Python, SQL Server, Power BI, n8n Automation, and Data Modeling** to create complete analytics pipelines—from raw data ingestion and validation to automated reporting and executive dashboards.
 
 ---
 
@@ -15,40 +16,122 @@ Healthcare, Retail, and Operations domains.
 
 ---
 
-## 🛠 Core Skills
-- Data Analysis & Business Intelligence
-- Power BI (Data Modeling, DAX, Executive Dashboards)
-- SQL Server (Views, Transformations)
-- Excel (Data Cleaning & Analysis)
-- KPI Design & Performance Analysis
-- Business & Executive Reporting
+# 🚀 Technical Stack
+
+### Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Executive Dashboard Design
+- KPI Development
+- Business Storytelling
+
+### Data Analytics
+- SQL Server
+- Python
+- Pandas
+- NumPy
+- Excel
+
+### Automation & Data Engineering
+- n8n
+- FastAPI
+- REST APIs
+- ETL Pipelines
+- Data Validation
+- Audit Logging
+
+### Other Skills
+- Data Modeling
+- Star Schema
+- Performance Analysis
+- Git & GitHub
+- Business Intelligence Solutions
 
 ---
 
-## ⭐ Featured Projects
-### 🏥 Comprehensive Hospital Performance Analysis
-**Executive reporting project consolidating 7 dashboards into a single strategic view**  
-🔗 `/06-Comprehensive-Hospital-Performance-Analysis`
+# ⭐ Featured Projects
 
-### 🏭 Manufacturing & Production Dashboard
-**Downtime, reliability, maintenance cost, and inventory optimization**  
-🔗 `/05-Manufacturing-and-Production-Dashboard`
+## ☕ Coffee Shop End-to-End Business Intelligence Platform
 
-### 🛍️ Retail Profitability Dashboard
-**SQL + Power BI analysis of profit drivers, loss-making products, and discounts**  
-🔗 `/07-Comprehensive-Retail-Performance-Analysis`
+An enterprise-style Business Intelligence solution integrating **Python, FastAPI, n8n, SQL Server, and Power BI**.
 
-🔒 Bonus Project (Private):
-Healthcare analytics-driven engagement platform focused on KPI design, scoring, and incentive systems.
-Details available upon request.
+### Highlights
+
+- Automated ETL Pipeline
+- Python Data Cleaning Engine
+- SQL Server Audit Logging
+- Human Approval Workflow
+- Executive Power BI Dashboard
+- Pareto Analysis
+- ABC Classification
+- Time Intelligence
+- Dynamic KPI Reporting
+
+🔗 **Project**
+`/09-Coffee-Shop-Sales-Analytics`
 
 ---
 
-## 📂 Other Projects
+## 🏥 Comprehensive Hospital Performance Analysis
+
+Executive reporting solution consolidating seven operational dashboards into a single strategic management dashboard.
+
+### Highlights
+
+- Executive Dashboard
+- HR Analytics
+- Finance Analytics
+- Operations
+- Pharmacy
+- Inventory
+- Performance KPIs
+
+🔗 **Project**
+`/06-Comprehensive-Hospital-Performance-Analysis`
+
+---
+
+## 🏭 Manufacturing & Production Dashboard
+
+Business Intelligence solution focused on manufacturing performance.
+
+### Highlights
+
+- Downtime Analysis
+- Production KPIs
+- Inventory Performance
+- Maintenance Cost Analysis
+- Executive Reporting
+
+🔗 **Project**
+`/05-Manufacturing-and-Production-Dashboard`
+
+---
+
+## 🛍️ Comprehensive Retail Performance Analysis
+
+Retail Business Intelligence solution built using SQL Server and Power BI.
+
+### Highlights
+
+- Sales Analysis
+- Profitability Analysis
+- Discount Analysis
+- Product Performance
+- Executive Dashboard
+
+🔗 **Project**
+`/07-Comprehensive-Retail-Performance-Analysis`
+
+---
+
+# 📂 Additional Projects
+
 - Healthcare Sales Performance Dashboard
 - Pharsert Sales Performance Dashboard
-- Supermarket Sales Dashboard (Power BI – Kaggle)
-- Car Sales and Profit Dashboard
+- Supermarket Sales Dashboard
+- Car Sales & Profit Dashboard
 
 ---
 
@@ -79,3 +162,16 @@ Details available upon request.
 - LinkedIn: (www.linkedin.com/in/yousif-naser)
 - Email: (yousifnaser34@gmail.com)
 
+# 💡 Career Focus
+
+I am passionate about building Business Intelligence solutions that bridge the gap between raw data and business decision-making.
+
+My interests include:
+
+- Business Intelligence
+- Data Analytics
+- AI Automation
+- ETL Pipelines
+- Healthcare Analytics
+- Retail Analytics
+- Executive Reporting
