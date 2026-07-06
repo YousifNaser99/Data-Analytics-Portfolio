@@ -1,4 +1,5 @@
-# ☕ Coffee Shop End-to-End Analytics Platform
+# ☕ Coffee Shop Sales Analytics
+### End-to-End Business Intelligence Platform
 
 An end-to-end Business Intelligence solution that transforms raw coffee shop sales data into actionable business insights through an automated data pipeline built with Python, n8n, SQL Server, and Power BI.
 
