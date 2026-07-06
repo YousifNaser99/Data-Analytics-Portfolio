@@ -181,14 +181,3 @@ The automation pipeline consists of:
 # Business Value
 
 The solution automates data preparation and reporting, reducing manual effort while ensuring data quality through validation, audit logging, and approval workflows before data reaches Power BI.
-
----
-
-# Author
-
-**Yousif Naser**
-
-Data Analyst | Business Intelligence | AI Automation
-
-GitHub:
-https://github.com/YousifNaser99
