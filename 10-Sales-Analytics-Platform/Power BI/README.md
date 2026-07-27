@@ -23,7 +23,6 @@ Provides a high-level summary of business performance including:
 - Profit Margin
 - Average Order Value
 
-
 ## Sales Performance
 
 Analyzes:
