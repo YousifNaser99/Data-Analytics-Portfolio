@@ -50,5 +50,3 @@ ON f.OrderDate=c.Date
 
 INNER JOIN DimTerritory t
 ON f.SalesTerritoryKey=t.SalesTerritoryKey;
-
-
