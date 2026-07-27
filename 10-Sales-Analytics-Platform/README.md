@@ -1,43 +1,37 @@
 # Sales Analytics Platform
 
-End-to-End Business Intelligence and Advanced Analytics Platform built to transform raw sales data into actionable business insights.
+An End-to-End Business Intelligence and Advanced Analytics Platform designed to transform raw sales data into actionable business insights.
 
-The project combines Data Engineering, SQL Analytics, Power BI Dashboards, and Streamlit Predictive Analytics to support data-driven decision making.
+This project integrates Data Engineering, SQL Analytics, Power BI Reporting, and Streamlit Advanced Analytics to build a complete data-driven decision support solution.
 
 ---
 
 # Project Overview
 
-This project demonstrates a complete analytics workflow:
+The project demonstrates a complete analytics workflow:
 
+```
 Raw Data
-
-↓
-
-Python Data Cleaning
-
-↓
-
+    ↓
+Python Data Cleaning & Validation
+    ↓
 SQL Server Analytical Database
-
-↓
-
+    ↓
 Power BI Business Intelligence Dashboards
-
-↓
-
+    ↓
 Streamlit Advanced Analytics Platform
+```
 
 ---
 
 # Project Objectives
 
-- Analyze sales performance
-- Monitor revenue and profitability
-- Understand customer behavior
-- Identify product opportunities
-- Apply predictive analytics
-- Support business decisions using data
+- Analyze sales performance and business trends
+- Monitor revenue and profitability metrics
+- Understand customer behavior and segmentation
+- Identify product and market opportunities
+- Apply predictive analytics techniques
+- Support data-driven business decisions
 
 ---
 
@@ -50,14 +44,14 @@ Streamlit Advanced Analytics Platform
 - NumPy
 - Jupyter Notebook
 
-## Database
+## Database & Analytics Engineering
 
 - SQL Server
 - T-SQL
-- Views
+- Analytical Views
 - Star Schema Modeling
 
-## Visualization
+## Business Intelligence
 
 - Power BI
 - DAX
@@ -67,13 +61,13 @@ Streamlit Advanced Analytics Platform
 
 - Streamlit
 - Plotly
-- Forecasting
+- Sales Forecasting
 - AI Business Insights
 - Sales Simulation
 
 ---
 
-## Project Structure
+# Project Architecture
 
 ```
 Sales-Analytics-Platform
@@ -90,7 +84,7 @@ Sales-Analytics-Platform
 │   └── Documentation
 │
 ├── Python
-│   └── Data Cleaning Notebook
+│   └── Data Cleaning & Validation
 │
 ├── SQL-Server
 │   ├── Analytical Views
@@ -105,97 +99,137 @@ Sales-Analytics-Platform
 └── README.md
 ```
 
-
 ---
 
-# Dashboard Modules
+# Power BI Dashboard Modules
 
-The Power BI dashboard includes:
+The interactive Power BI solution includes multiple analytical areas:
 
 ## Executive Overview
 
-- Revenue
-- Profit
+Provides high-level business monitoring:
+
+- Total Revenue
+- Gross Profit
 - Customers
 - Orders
 - Profit Margin
 
+---
+
 ## Sales Analysis
 
+Analyzes:
+
 - Sales trends
-- Country performance
+- Geographic performance
 - Product contribution
+- Revenue distribution
+
+---
 
 ## Product Analysis
 
+Includes:
+
 - Product ranking
-- Category analysis
-- Pareto analysis
+- Category performance
+- Pareto Analysis (80/20 Rule)
+
+---
 
 ## Customer Analytics
 
+Analyzes customer behavior through:
+
 - Customer segmentation
-- Customer lifetime value
-- Repeat customers
+- Customer Lifetime Value
+- Repeat customer analysis
+- Purchasing patterns
+
+---
 
 ## Financial Analysis
 
+Focuses on:
+
 - Revenue analysis
 - Cost analysis
+- Gross Profit
 - Profitability metrics
+
+---
 
 ## Operations Analysis
 
+Evaluates:
+
 - Units sold
-- Freight analysis
-- Manufacturing performance
+- Freight performance
+- Manufacturing efficiency
+
+---
 
 ## Market Basket Analysis
 
-Product relationships using:
+Identifies product relationships using:
 
 - Support
 - Confidence
 - Lift
 
-## Time Intelligence
+---
+
+## Time Intelligence Analysis
+
+Includes:
 
 - YoY Growth
 - MoM Growth
 - Running Revenue
-- Seasonal analysis
+- Seasonal Analysis
 
 ---
 
-# Streamlit Analytics Features
+# Streamlit Advanced Analytics
 
-The Streamlit application extends the BI solution with advanced analytics:
+The Streamlit application extends the BI solution with predictive and decision-support capabilities.
 
 ## Sales Forecast
 
+Features:
+
 - Future sales estimation
 - Trend analysis
-- Confidence intervals
+- Forecast confidence intervals
+
+---
 
 ## AI Business Insights
 
-- Performance summary
-- Business alerts
+Provides:
+
+- Business performance summary
+- Automated alerts
 - Growth opportunities
 - Executive recommendations
 
+---
+
 ## Sales Simulator
 
-- Scenario analysis
-- Revenue impact
-- Profit impact
+Supports scenario planning through:
+
+- Revenue impact analysis
+- Profit impact analysis
 - Margin evaluation
+- Business scenarios comparison
 
 ---
 
 # Key Business Metrics
 
-Main KPIs analyzed:
+The platform analyzes important KPIs including:
 
 - Total Revenue
 - Gross Profit
@@ -209,14 +243,14 @@ Main KPIs analyzed:
 
 # Business Value
 
-The platform helps stakeholders:
+This platform helps stakeholders to:
 
 - Monitor business performance
 - Identify growth opportunities
 - Improve decision making
 - Understand customer behavior
 - Optimize product strategies
-- Plan future scenarios
+- Evaluate future scenarios
 
 ---
 
@@ -224,7 +258,7 @@ The platform helps stakeholders:
 
 Developed as a Business Intelligence Portfolio Project.
 
-Skills demonstrated:
+## Skills Demonstrated
 
 - Data Analysis
 - SQL Development
