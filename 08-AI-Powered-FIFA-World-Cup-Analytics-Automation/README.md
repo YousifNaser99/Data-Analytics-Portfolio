@@ -73,19 +73,19 @@ The repository contains:
 
 ## Match Data Repository
 
-![Matches Sheet](DataRepository/matches-sheet.png)
+![Matches Sheet](Data%20Repository/01_matches_data_layer.png)
 
 ## Tournament Standings
 
-![Standings Sheet](Data%20Repository/standings-sheet.png)
+![Standings Sheet](Data%20Repository/02_group_standings.png)
 
 ## Qualified Teams
 
-![Qualified Teams](Data%20Repository/qualified-teams.png)
+![Qualified Teams](Data%20Repository/03_qualified_teams.png)
 
 ## Best Third-Placed Teams
 
-![Best Thirds](Data%20Repository/best-thirds.png)
+![Best Thirds](Data%20Repository/04_best_thirds_ranking.png)
 
 ---
 
@@ -104,7 +104,7 @@ The knockout stage workflow automatically updates match results, winners, and to
 
 ## Knockout Stage Repository
 
-![Knockout Stage](Data%20Repository/knockout-stage.png)
+![Knockout Stage](Data%20Repository/05_knockout_stage.png)
 
 ---
 
