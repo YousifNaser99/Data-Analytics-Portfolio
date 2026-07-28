@@ -1,77 +1,163 @@
 # AI-Powered FIFA World Cup Analytics & Automation System
+
 # 📊 Project Overview
 
-An AI-powered automation platform built to monitor FIFA World Cup matches, generate AI-based match summaries, track standings and qualification scenarios, and deliver real-time notifications automatically.
+An AI-powered football analytics and automation platform designed to monitor FIFA World Cup matches, process tournament data, calculate standings and qualification scenarios, generate AI-based match insights, and deliver automated real-time notifications.
 
-## ⚙️ Main Workflow
+The system combines data automation, analytics logic, AI integration, and workflow orchestration to create an end-to-end tournament monitoring solution.
+
+---
+
+# ⚙️ Automation Workflows
+
+The platform is powered by n8n automation workflows responsible for collecting, processing, and updating tournament data.
+
+## Main Data Collection Workflow
+
 ![Main Workflow](Workflows/main-workflow.png)
-## 📊 Standings & Qualification Workflow
+
+## Standings Calculation Workflow
+
 ![Standings Workflow](Workflows/standings-workflow.png)
+
+## Knockout Stage Update Workflow
+
+![Knockout Workflow](Workflows/knockout-stage-workflow.png)
+
+---
 
 # 📌 Business Objective
 
-Build a fully automated football analytics system capable of:
+Build an automated football analytics system capable of:
 
-1. Collecting live match data.
-2. Maintaining tournament standings.
-3. Tracking qualified teams and best third-placed teams.
-4. Generating AI-powered match summaries.
-5. Sending real-time Telegram notifications.
+1. Collecting live FIFA World Cup match data.
+2. Maintaining accurate tournament standings.
+3. Tracking qualification scenarios.
+4. Managing knockout stage progression.
+5. Generating AI-powered match summaries.
+6. Sending automated Telegram notifications.
 
-# 📊 Data Source
+---
+
+# 📊 Data Sources
+
+The system uses:
+
 1. Football-Data API
 2. Live FIFA World Cup match data
-3. Group stage standings and qualification information
+3. Tournament standings and qualification information
+
+---
 
 # 🔍 Automation & Analytics Process
-# Match Data Collection
-1. Retrieved live match data using Football-Data API.
-2. Automated data ingestion through n8n workflows.
-# Data Repository
-1. Stored match results and tournament data in Google Sheets.
-2. Maintained live standings and qualification tables.
-### Match Data Repository
+
+## Match Data Collection
+
+- Retrieved match information from football APIs.
+- Automated data ingestion and processing using n8n workflows.
+- Structured match data for analytics and reporting.
+
+---
+
+# 📂 Data Repository
+
+Tournament data is stored and managed using Google Sheets as the central data layer.
+
+The repository contains:
+
+- Match data
+- Group standings
+- Qualified teams
+- Best third-placed teams
+- Knockout stage results
+
+## Match Data Repository
+
 ![Matches Sheet](Data%20Repository/matches-sheet.png)
 
-# Qualification Logic
-Automatically calculated:
-1. Group standings.
-2. Qualified teams.
-3. Best third-placed teams.
-### Tournament Standings
+## Tournament Standings
+
 ![Standings Sheet](Data%20Repository/standings-sheet.png)
-### Qualified Teams
+
+## Qualified Teams
+
 ![Qualified Teams](Data%20Repository/qualified-teams.png)
-### Best Third-Placed Teams
+
+## Best Third-Placed Teams
+
 ![Best Thirds](Data%20Repository/best-thirds.png)
 
-# AI Match Analysis
-1. Integrated OpenRouter AI.
-2. Generated automated match summaries and insights.
-# Notification System
-1. Delivered real-time Telegram notifications.
-2. Prevented duplicate alerts using tracking logic.
+---
+
+# 🏆 Knockout Stage Tracking
+
+The system was extended to support knockout stage monitoring including:
+
+- Round of 32
+- Round of 16
+- Quarter-finals
+- Semi-finals
+- Third-place match
+- Final
+
+The knockout stage workflow automatically updates match results, winners, and tournament progression.
+
+## Knockout Stage Repository
+
+![Knockout Stage](Data%20Repository/knockout-stage.png)
+
+---
+
+# 🤖 AI Match Analysis
+
+- Integrated OpenRouter AI models for automated match analysis.
+- Generated match summaries including:
+  - Match overview
+  - Key takeaways
+  - Tournament implications
+
+---
+
+# 📢 Notification System
+
+Automated Telegram notification system responsible for:
+
+- Sending real-time match updates.
+- Delivering AI-generated summaries.
+- Preventing duplicate notifications using tracking logic.
+
+---
 
 # 📈 Key Features
-1. Real-time tournament monitoring.
-2. Automated standings calculation.
-3. Qualification tracking engine.
-4. Best third-placed team ranking.
-5. AI-generated match summaries.
-6. Telegram notification automation.
-7. Cloud deployment with n8n.
+
+✅ Real-time tournament monitoring  
+✅ Automated match data collection  
+✅ Dynamic standings calculation  
+✅ Qualification scenario tracking  
+✅ Best third-placed team ranking  
+✅ Knockout stage progression tracking  
+✅ AI-generated match analysis  
+✅ Telegram notification automation  
+✅ n8n workflow orchestration  
+
+---
 
 # 🛠 Tools & Technologies
-1. n8n Cloud
-2. Football-Data API
-3. OpenRouter AI
-4. Google Sheets Formulas
-5. Telegram Bot API
-6. JavaScript
-7. REST APIs
+
+- n8n Cloud
+- Football Data APIs
+- OpenRouter AI
+- Google Sheets
+- Telegram Bot API
+- JavaScript
+- REST APIs
+
+---
 
 # 🚀 Future Enhancements
-1. Power BI Dashboard Integration
-2. Historical Tournament Analytics
-3. Team Performance Dashboards
+
+1. Power BI Interactive Dashboard
+2. Historical World Cup Analytics
+3. Team Performance Analytics
 4. Predictive Match Outcome Models
+5. Advanced football metrics and visualizations
