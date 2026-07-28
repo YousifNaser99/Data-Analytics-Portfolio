@@ -73,7 +73,7 @@ The repository contains:
 
 ## Match Data Repository
 
-![Matches Sheet](Data%20Repository/matches-sheet.png)
+![Matches Sheet](DataRepository/matches-sheet.png)
 
 ## Tournament Standings
 
