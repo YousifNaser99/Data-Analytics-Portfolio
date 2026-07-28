@@ -1,47 +1,226 @@
-# 🏭 Manufacturing & Production Dashboard
+# 🏭 Manufacturing & Production Analytics Dashboard
 
 ## 📊 Dashboard Preview
-[Production Impact](Dashboard/production_impact.png)
-[Cost Management](Dashboard/cost_management.png)
-[Equipment Reliability Failure Pattern](Dashboard/equipment-reliability-failure-pattern.png)
-[Inventory Management](Dashboard/inventory-management.png)
 
-## 📌 Business Objective
-Develop a comprehensive Manufacturing Downtime and Reliability Dashboard to analyze
-equipment performance, maintenance costs, and spare parts management.
-The goal is to uncover the causes and impact of downtime, optimize maintenance strategies,
-control maintenance expenditure, and improve overall equipment effectiveness (OEE)
-and plant reliability for Operations, Maintenance, and Finance stakeholders.
+### Executive Overview
+![Dashboard Overview](Dashboard/01_overview.png)
 
-## 📊 Data Source
-- Integrated maintenance management system
-- Historical data across multiple tables:
-  - Downtime records (start/end time, cause, production loss)
-  - Failure records (failure mode, severity, equipment)
-  - Maintenance costs (parts, labor, other costs)
-  - Inventory and spare parts data
+### Inventory Analysis
+![Inventory Analysis](Dashboard/02_inventory_analysis.png)
 
-## 🔍 Analytical Process
-- **Data Modeling:** Cleaned, transformed, and structured multi-table data into a robust
-  relational model linking failures, maintenance actions, costs, and inventory to equipment.
-- **KPI Definition:** Defined KPIs across three pillars:
-  - Impact (Total Downtime Hours, Production Loss, Cost of Downtime)
-  - Reliability (Total Failures, Average Downtime per Failure – MTTR proxy)
-  - Cost & Inventory (Total Maintenance Cost, Parts Cost, Inventory Value)
-- **Dashboard Design:** Built a multi-page Power BI dashboard covering downtime,
-  reliability, maintenance cost, and inventory management.
-- **Visualization:** Used Pareto charts, donut charts, and line charts to analyze
-  downtime causes, cost distribution, and failure severity patterns.
-- **Interactive Analysis:** Enabled deep drill-down using slicers for equipment,
-  location, cause, manufacturer, and severity.
+### Failure Analysis
+![Failure Analysis](Dashboard/03_failure_analysis.png)
 
-## 📈 Key Insights
-- Identified high-impact downtime causes such as wear, corrosion, and seal failure.
-- Highlighted critical “bad actor” equipment with the highest cost of downtime.
-- Revealed that parts cost represents the majority of total maintenance expenditure.
-- Identified inventory risks with parts below reorder levels affecting reliability.
+### Failure Pattern & Reliability Analysis
+![Failure Pattern Analysis](Dashboard/04_failure_analysis2.png)
 
-## 🛠 Tools Used
-- Microsoft Power BI (Data Modeling, DAX, Interactive Dashboards)
-- Microsoft Excel (Data Preparation)
+### Maintenance Cost Analysis
+![Cost Analysis](Dashboard/05_cost_analysis.png)
 
+### Equipment Performance Analysis
+![Equipment Analysis](Dashboard/06_equipment_analysis.png)
+
+
+---
+
+# 📌 Project Overview
+
+An end-to-end Manufacturing Analytics solution built to analyze equipment reliability, production downtime, maintenance performance, spare parts inventory, and operational costs.
+
+The dashboard transforms maintenance and operational data into actionable insights to support data-driven decisions for Operations, Maintenance, and Finance teams.
+
+
+---
+
+# 🎯 Business Objective
+
+The objective of this project is to:
+
+- Analyze the root causes of manufacturing downtime.
+- Identify high-impact equipment and failure patterns.
+- Evaluate maintenance cost drivers.
+- Optimize spare parts inventory management.
+- Improve equipment reliability and operational efficiency.
+
+
+---
+
+# 📊 Data Source
+
+The dataset represents an integrated maintenance management system containing multiple operational tables:
+
+### Downtime Records
+- Downtime events
+- Failure causes
+- Production loss
+- Downtime duration
+
+### Failure Records
+- Failure mode
+- Failure severity
+- Equipment information
+- Failure frequency
+
+### Maintenance Data
+- Parts cost
+- Labor cost
+- Other maintenance expenses
+- Total maintenance cost
+
+### Inventory Data
+- Spare parts quantity
+- Parts consumption
+- Inventory value
+- Reorder level
+
+
+---
+
+# 🔍 Analytical Process
+
+## Data Preparation & Modeling
+
+- Cleaned and transformed raw operational data.
+- Built relationships between equipment, failures, maintenance, and inventory tables.
+- Created an analytical data model optimized for Power BI reporting.
+
+
+## KPI Development
+
+Developed business KPIs across three main areas:
+
+### Reliability KPIs
+- Total Failures
+- Total Downtime Hours
+- Average Downtime per Failure (MTTR Proxy)
+- Failure Severity Analysis
+
+
+### Cost KPIs
+- Total Maintenance Cost
+- Parts Cost
+- Labor Cost
+- Cost of Downtime
+
+
+### Inventory KPIs
+- Total Stock Quantity
+- Inventory Value
+- Parts Below Reorder Level
+
+
+---
+
+# 📈 Dashboard Pages
+
+## 1. Overview Dashboard
+
+Provides an executive summary of:
+
+- Downtime performance
+- Failure trends
+- Production impact
+- Critical metrics
+
+
+## 2. Inventory Analysis
+
+Focuses on:
+
+- Spare parts consumption
+- Stock levels
+- Inventory value
+- Reorder risks
+
+
+## 3. Failure Analysis
+
+Analyzes:
+
+- Failure causes
+- Failure modes
+- Severity distribution
+- Criticality levels
+
+
+## 4. Reliability Analysis
+
+Evaluates:
+
+- MTTR trends
+- Equipment reliability
+- Failure patterns
+- High-risk assets
+
+
+## 5. Cost Analysis
+
+Analyzes:
+
+- Maintenance expenditure
+- Cost distribution
+- Cost trends
+- Major cost contributors
+
+
+## 6. Equipment Performance Analysis
+
+Provides insights into:
+
+- Equipment criticality
+- Manufacturer performance
+- Asset-level analysis
+- Downtime contribution
+
+
+---
+
+# 🔍 Key Business Insights
+
+- Wear, corrosion, and seal failure were identified as major contributors to downtime.
+- A small number of equipment assets generated a significant portion of downtime impact.
+- Parts cost represented the largest component of maintenance expenditure.
+- Inventory analysis highlighted spare parts requiring better stock optimization.
+- Critical equipment should be prioritized for preventive maintenance strategies.
+
+
+---
+
+# 💡 Business Recommendations
+
+- Implement preventive maintenance programs based on failure history.
+- Prioritize high-impact equipment for reliability improvement.
+- Optimize spare parts inventory using consumption and criticality analysis.
+- Continuously monitor downtime trends to reduce production losses.
+
+
+---
+
+# 🛠 Tools & Technologies
+
+- Microsoft Power BI
+  - Data Modeling
+  - DAX Measures
+  - Interactive Dashboards
+
+- Microsoft Excel
+  - Data Preparation
+  - Data Cleaning
+
+
+---
+
+# 👥 Target Stakeholders
+
+Designed for:
+
+- Operations Managers
+- Maintenance Teams
+- Reliability Engineers
+- Finance Teams
+
+---
+
+# 📌 Project Outcome
+
+This project demonstrates how industrial data can be transformed into actionable business intelligence to improve reliability, reduce downtime, control maintenance costs, and support operational decision-making.
